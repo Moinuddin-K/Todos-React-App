@@ -1,0 +1,35 @@
+.strike-through{
+    text-decoration: line-through;
+    text-align: left;
+    > div{
+        text-align: left;
+    }
+}
+
+.normal{
+    text-decoration: none;
+    float: left;
+    > div{
+        text-align: left;
+    }
+}
+
+.todoTasks{
+    display: inline-flex;
+    border: 1px solid black;
+    width: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    // padding-left: 100px;
+    padding: 1%;
+    border-radius: 15px;
+    background-color: rgb(238, 114, 120);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+// .check{
+//     float: left;
+// }

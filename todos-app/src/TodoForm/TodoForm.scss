@@ -1,0 +1,40 @@
+.hide-Form{
+    display: none;
+    // margin: 1000px;
+}
+
+.show-Form{
+    text-align: center;
+    display: inline-flex;
+}
+
+.AddButton{
+    margin-left: 50%;
+    background-color: rgb(26, 193, 26);
+    color: white;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+
+.submit{
+    background-color: rgb(26, 193, 26);
+    color: white;
+    padding: 1%;
+    border-radius: 10px;
+}
+.AddForm{
+    margin-left: 16%;
+    margin-top: 1%;
+    
+    padding: 1%;
+    border: black 1px solid;
+    width: 68%;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(27, 29, 50); ;
+    > label {
+        margin: 2% ;
+    }
+    
+}
