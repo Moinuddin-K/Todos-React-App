@@ -1,0 +1,26 @@
+{
+  "name": "assignment-8-moinuddin-k",
+  "version": "1.0.0",
+  "description": "Todo list Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-fall-2022/assignment-8-Moinuddin-K.git"
+  },
+  "author": "",
+  "type":"module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-fall-2022/assignment-8-Moinuddin-K/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-fall-2022/assignment-8-Moinuddin-K#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  }
+}
